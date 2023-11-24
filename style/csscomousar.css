@@ -261,3 +261,10 @@ body {
   }
 
 }
+
+@media screen and (max-width:650px){
+  .formEscrita video{
+    width: 400px;
+    height: 400px;
+  }
+}
